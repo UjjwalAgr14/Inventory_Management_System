@@ -29,8 +29,3 @@
 
     php artisan serve
 
-## Our valuable team👩‍💻👨‍💻 :
-
-<p align="center">
-  <img src="https://contributors-img.web.app/image?repo=ekramasif/Inventory_Management_System" />
-</p>
